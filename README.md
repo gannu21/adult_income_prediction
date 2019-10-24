@@ -11,8 +11,6 @@ This dataset has categorical values too. The problem with most of the categorica
 
 For simplicity to deal with the categorical values i have used get_dummies method of pandas dataframe. There are other various methods that you can use to deal with categorical values.
 
-FEATURE SELECTION is another important concept which we need to understand while analysing data. So features may not contribute to the output of our model. Butif include they can affect the result in a not so good way. Hence we need to remove such features and choose only those that drastically affect the output. Again there are different ways in which FEATURE SELECTION can be done. But here i have used Univariate feature selection and Recurssive feature elimination with cross validation.
+FEATURE SELECTION is another important concept which we need to understand while analysing data. So features may not contribute to the output of our model. But if include they can affect the result in a not so good way. Hence we need to remove such features and choose only those that drastically affect the output. Again there are different ways in which FEATURE SELECTION can be done. But here i have used Univariate feature selection and Recurssive feature elimination with cross validation.
 
-THIS ANALYSIS IS BEEN DONE FOR BEGINEERS PERSPECTIVE. THERE IS SO MUCH MORE THAT YOU CAN DO TO GO DEEPER.
 
-HAPPY ANALYSING!!!!
